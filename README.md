@@ -10,7 +10,7 @@ This is a PyTorch implementation of our paper "Rethinking Deep Active Learning f
 * We refer to the [Diffae](https://github.com/phizaz/diffae) for diffusion-based self-supervised training and feature extraction.
 
 ### For Angle-based Sampling:
-* We release a demo in Jupyter Notebook [ABAL Sampler](https://github.com/miccaiif/ABAL/blob/main/ABOD.ipynb). More comparative sampling methods could be found in [Comparative Samplers](https://github.com/miccaiif/ABAL/tree/main/comparative_sampling_methods).
+* We release a demo in Jupyter Notebook [ABAL Sampler](https://github.com/miccaiif/ABAL/blob/main/ABsampler.ipynb). More comparative sampling methods could be found in [Comparative Samplers](https://github.com/miccaiif/ABAL/tree/main/comparative_sampling_methods).
 
 
 ### Contact Information
