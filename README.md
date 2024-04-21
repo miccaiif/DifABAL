@@ -1,4 +1,4 @@
-## Official-PyTorch-Implementation-of-DifABAL
+## :fries: Official-PyTorch-Implementation-of-DifABAL
 
 <p align="center">
   <img src="https://github.com/miccaiif/ABAL/blob/main/Figure4.png" width="720">
